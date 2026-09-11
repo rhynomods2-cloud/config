@@ -2,17 +2,17 @@
   "popup_enabled": true,
   "campaign_id": "rhyno_v2",
   "force_show": false,
-  "timer_seconds": 16,
+  "timer_seconds": 8,
   "title": "Rhyno Plays",
-  "subtitle": "New Update v2.0 Live!",
+  "subtitle": "Premium Hub",
   "explore_url": "https://t.me/rhynoplays",
   "guide_url": "https://t.me/rhynoplays",
-  "action_text": "Download Update",
+  "action_text": "Join Community",
   "action_url": "https://t.me/rhynoplays",
   "features": [
-    "Fixed Video Playback & Buffering 100%",
-    "Unlocked Real 4K 60FPS Stream Quality",
-    "Zero Ads, Zero Sponsors & Background PIP",
-    "Tap 'Download Update' to get latest APK"
+    "100% Ad-Free Feed & Videos",
+    "Real 4K & 1080p Quality Unlocked",
+    "Auto SponsorBlock & Skip Enabled",
+    "Background Audio & PIP Mode"
   ]
 }
