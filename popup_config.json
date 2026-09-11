@@ -1,0 +1,18 @@
+{
+  "popup_enabled": true,
+  "campaign_id": "rhyno_v1",
+  "force_show": false,
+  "timer_seconds": 10,
+  "title": "Rhyno Plays",
+  "subtitle": "Premium Hub",
+  "explore_url": "https://t.me/rhynoplays",
+  "guide_url": "https://t.me/rhynoplays",
+  "action_text": "Join Community",
+  "action_url": "https://t.me/rhynoplays",
+  "features": [
+    "100% Ad-Free Feed & Videos",
+    "Real 4K & 1080p Quality Unlocked",
+    "Auto SponsorBlock & Skip Enabled",
+    "Background Audio & PIP Mode"
+  ]
+}
