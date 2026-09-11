@@ -5,7 +5,6 @@
   "maintenance_msg": "The current version of the app is not secure.\nDownload the latest version from our official website.",
   "maintenance_btn_text": "Download from Website",
   "maintenance_url": "https://t.me/rhynoplays",
-
   "update_mode": false,
   "update_title": "Update Available!",
   "update_version": "v21.13.164 (Build 2026)",
@@ -14,15 +13,14 @@
   "update_btn_text": "Update Now ➔",
   "update_url": "https://t.me/rhynoplays",
   "update_force": false,
-
   "popup_enabled": true,
-  "campaign_id": "rhyno_v2",
+  "campaign_id": "rhyno_v1",
   "force_show": false,
-  "timer_seconds": 8,
-  "title": "Rhyno Plays",
+  "timer_seconds": 10,
+  "title": "Rhyno service",
   "subtitle": "Premium Hub",
   "explore_url": "https://t.me/rhynoplays",
-  "guide_url": "https://t.me/rhynomod",
+  "guide_url": "https://t.me/rhynoplays",
   "action_text": "Join Community",
   "action_url": "https://t.me/rhynoplays",
   "features": [
