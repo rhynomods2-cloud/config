@@ -1,5 +1,5 @@
 {
-  "maintenance_mode": false,
+  "maintenance_mode": true,
   "maintenance_title": "🛡️ SECURITY WARNING 🛡️",
   "maintenance_subtitle": "Fake Software Detected",
   "maintenance_msg": "The current version of the app is not secure.\nDownload the latest version from our official website.",
