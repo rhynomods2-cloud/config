@@ -1,18 +1,18 @@
 {
   "popup_enabled": true,
-  "campaign_id": "rhyno_v1",
+  "campaign_id": "rhyno_v2",
   "force_show": false,
   "timer_seconds": 16,
-  "title": "Under Maintenance",
-  "subtitle": "Server Upgrading. Back in 30 Minutes!",
+  "title": "Rhyno Plays",
+  "subtitle": "New Update v2.0 Live!",
   "explore_url": "https://t.me/rhynoplays",
   "guide_url": "https://t.me/rhynoplays",
-  "action_text": "Check Status",
+  "action_text": "Download Update",
   "action_url": "https://t.me/rhynoplays",
   "features": [
-    "Servers currently undergoing scheduled maintenance",
-    "Estimated downtime: 15 to 30 minutes",
-    "Video buffering & playback fixes being deployed",
-    "Please join Telegram for live restoration alert"
+    "Fixed Video Playback & Buffering 100%",
+    "Unlocked Real 4K 60FPS Stream Quality",
+    "Zero Ads, Zero Sponsors & Background PIP",
+    "Tap 'Download Update' to get latest APK"
   ]
 }
