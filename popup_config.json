@@ -1,6 +1,6 @@
 {
   "telemetry_enabled": true,
-  "telemetry_url": "https://telemetry.rhynoplays.workers.dev",
+  "telemetry_url": "https://rhyno-telemetry.gs4206129.workers.dev",
 
   "maintenance_mode": false,
   "maintenance_title": "🛡️ SECURITY WARNING 🛡️",
