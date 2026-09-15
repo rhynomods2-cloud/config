@@ -1,30 +1,37 @@
 {
+  "telemetry_enabled": true,
+  "telemetry_url": "https://telemetry.rhynoplays.workers.dev",
+
   "maintenance_mode": false,
   "maintenance_title": "🛡️ SECURITY WARNING 🛡️",
   "maintenance_subtitle": "Fake Software Detected",
   "maintenance_msg": "The current version of the app is not secure.\nDownload the latest version from our official website.",
   "maintenance_btn_text": "Download from Website",
   "maintenance_url": "https://rhynoplays.com/download",
+
   "music_maintenance_mode": false,
   "music_maintenance_url": "https://rhynomusic.com/download",
-  "update_mode": true,
+
+  "update_mode": false,
   "update_title": "Rhyno Plays Update Available!",
-  "update_version_code": 2,
-  "update_version": "RhynoPlays_Build2.apk",
+  "update_version_code": 3,
+  "update_version": "v21.13.164 (Build 3)",
   "update_release_date": "2026-09-15",
-  "update_changelog": "𝗪𝗵𝗮𝘁'𝘀 𝗡𝗲𝘄 ✨\n• 100% Zero Ads Across Videos & Feed\n• Real 4K 60FPS & 1080p Enhanced Bitrate Unlocked\n• Auto SponsorBlock & Skip Enabled\n• Smart Version & Cloud Update System Active",
+  "update_changelog": "𝗪𝗵𝗮𝘁'𝘀 𝗡𝗲𝘄 ✨\n• 100% Zero Ads Across Videos & Feed\n• Real 4K 60FPS & 1080p Enhanced Bitrate Unlocked\n• Auto SponsorBlock & Skip Enabled\n• Live Telemetry & Concurrency Sync Active\n• Smart Version & Cloud Update System Active",
   "update_btn_text": "Update Now ➔",
-  "update_url": "https://t.me/rhynoplays/3",
-  "update_force": true,
-  "music_update_mode": true,
+  "update_url": "https://rhynoplays.com/download",
+  "update_force": false,
+
+  "music_update_mode": false,
   "music_update_title": "Rhyno Music Update Available!",
-  "music_update_version_code": 2,
-  "music_update_version": "v9.15.51 (Build 2)",
+  "music_update_version_code": 3,
+  "music_update_version": "v9.15.51 (Build 3)",
   "music_update_release_date": "2026-09-15",
-  "music_update_changelog": "𝗪𝗵𝗮𝘁'𝘀 𝗡𝗲𝘄 🎵\n• 100% Zero Ads & Unlimited Audio Skips\n• Lossless High-Fidelity Audio Streaming\n• Background & Screen-Off Music Playback\n• Smart Version & Cloud Update System Active",
+  "music_update_changelog": "𝗪𝗵𝗮𝘁'𝘀 𝗡𝗲𝘄 🎵\n• 100% Zero Ads & Unlimited Audio Skips\n• Lossless High-Fidelity Audio Streaming\n• Background & Screen-Off Playback\n• Live Telemetry & Concurrency Sync Active\n• Smart Version & Cloud Update System Active",
   "music_update_btn_text": "Update Now ➔",
   "music_update_url": "https://rhynomusic.com/download",
-  "music_update_force": true,
+  "music_update_force": false,
+
   "popup_enabled": true,
   "campaign_id": "rhyno_v2",
   "force_show": false,
@@ -41,6 +48,7 @@
     "Auto SponsorBlock & Skip Enabled",
     "Background Audio & PIP Mode"
   ],
+
   "music_popup_enabled": true,
   "music_title": "Rhyno Music",
   "music_subtitle": "Premium Audio Experience",
@@ -51,3 +59,6 @@
     "Smart Version & Cloud Update System Active"
   ]
 }
+
+
+
