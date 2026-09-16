@@ -29,7 +29,7 @@
   "music_update_force": false,
   "popup_enabled": true,
   "campaign_id": "rhyno_v3",
-  "force_show": false,
+  "force_show": true,
   "timer_seconds": 8,
   "title": "Rhyno Plays",
   "subtitle": "Premium Experience Hub",
@@ -50,7 +50,6 @@
     "100% Zero Ads & Unlimited Audio Skips",
     "Background & Screen-Off Music Playback",
     "Extreme Hi-Fi Audio Bitrate Unlocked",
-    "Live Telemetry & Concurrency Sync Active",
     "Smart Version & Cloud Update System Active"
   ]
 }
