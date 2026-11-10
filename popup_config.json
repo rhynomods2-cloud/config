@@ -27,8 +27,8 @@
   "music_update_btn_text": "Update Now ➔",
   "music_update_url": "https://rhynoplays.com/download",
   "music_update_force": false,
-  "popup_enabled": false,
-  "campaign_id": "rhyno_v3",
+  "popup_enabled": true,
+  "campaign_id": "rhyno_v5",
   "force_show": true,
   "timer_seconds": 8,
   "title": "Rhyno Plays",
@@ -43,7 +43,7 @@
     "Auto SponsorBlock & Skip Enabled",
     "Background Audio & PIP Mode"
   ],
-  "music_popup_enabled": false,
+  "music_popup_enabled": true,
   "music_title": "Rhyno Music",
   "music_subtitle": "Premium Audio Experience",
   "music_features": [
